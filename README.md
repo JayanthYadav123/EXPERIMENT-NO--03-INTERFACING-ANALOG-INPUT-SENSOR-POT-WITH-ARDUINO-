@@ -89,6 +89,6 @@ void loop()
 **
 **Simulation output:** 
 **
-![My image](adrino p.png)
+![My image](adrinop.png)
 
 **RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
